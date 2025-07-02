@@ -23,24 +23,10 @@
       <description></description>
     </item>
     <item>
-      <title>FreeWheelersEVS</title>
-      <link>http://localhost:1313/sponsorship/freewheelersevs/</link>
-      <pubDate>Thu, 19 Jun 2025 21:10:10 +0100</pubDate>
-      <guid>http://localhost:1313/sponsorship/freewheelersevs/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Pink Triangle Mountaineering</title>
       <link>http://localhost:1313/sponsorship/pink_triangle_mountaineering/</link>
       <pubDate>Thu, 19 Jun 2025 21:09:48 +0100</pubDate>
       <guid>http://localhost:1313/sponsorship/pink_triangle_mountaineering/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pink Triangle Racing</title>
-      <link>http://localhost:1313/sponsorship/pink_triangle_racing/</link>
-      <pubDate>Thu, 19 Jun 2025 21:09:36 +0100</pubDate>
-      <guid>http://localhost:1313/sponsorship/pink_triangle_racing/</guid>
       <description></description>
     </item>
     <item>
@@ -83,6 +69,13 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 19 Jun 2025 19:43:58 +0100</pubDate>
       <guid>http://localhost:1313/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pink Triangle Racing</title>
+      <link>http://localhost:1313/sponsorship/pink_triangle_racing/</link>
+      <pubDate>Mon, 16 Jun 2025 21:09:36 +0100</pubDate>
+      <guid>http://localhost:1313/sponsorship/pink_triangle_racing/</guid>
       <description></description>
     </item>
   </channel>
