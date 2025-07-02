@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Additive Manufacturing on BLJ91A Ltd</title>
+    <link>http://localhost:1313/projects/additive_manufacturing/</link>
+    <description>Recent content in Additive Manufacturing on BLJ91A Ltd</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/additive_manufacturing/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
