@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BLJ91A Ltd</title>
-    <link>http://localhost:1313/</link>
+    <link>https://blj91a.co.uk/</link>
     <description>Recent content on BLJ91A Ltd</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 19 Jun 2025 21:19:29 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blj91a.co.uk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adrian Schmieder</title>
-      <link>http://localhost:1313/people/adrian_schmieder/</link>
+      <link>https://blj91a.co.uk/people/adrian_schmieder/</link>
       <pubDate>Thu, 19 Jun 2025 21:19:29 +0100</pubDate>
-      <guid>http://localhost:1313/people/adrian_schmieder/</guid>
+      <guid>https://blj91a.co.uk/people/adrian_schmieder/</guid>
       <description></description>
     </item>
     <item>
       <title>Formula Student</title>
-      <link>http://localhost:1313/sponsorship/formulastudent/</link>
+      <link>https://blj91a.co.uk/sponsorship/formulastudent/</link>
       <pubDate>Thu, 19 Jun 2025 21:12:23 +0100</pubDate>
-      <guid>http://localhost:1313/sponsorship/formulastudent/</guid>
+      <guid>https://blj91a.co.uk/sponsorship/formulastudent/</guid>
       <description></description>
     </item>
     <item>
       <title>Pink Triangle Mountaineering</title>
-      <link>http://localhost:1313/sponsorship/pink_triangle_mountaineering/</link>
+      <link>https://blj91a.co.uk/sponsorship/pink_triangle_mountaineering/</link>
       <pubDate>Thu, 19 Jun 2025 21:09:48 +0100</pubDate>
-      <guid>http://localhost:1313/sponsorship/pink_triangle_mountaineering/</guid>
+      <guid>https://blj91a.co.uk/sponsorship/pink_triangle_mountaineering/</guid>
       <description></description>
     </item>
     <item>
       <title>Pink Triangle Racing</title>
-      <link>http://localhost:1313/sponsorship/pink_triangle_racing/</link>
+      <link>https://blj91a.co.uk/sponsorship/pink_triangle_racing/</link>
       <pubDate>Mon, 16 Jun 2025 21:09:36 +0100</pubDate>
-      <guid>http://localhost:1313/sponsorship/pink_triangle_racing/</guid>
+      <guid>https://blj91a.co.uk/sponsorship/pink_triangle_racing/</guid>
       <description></description>
     </item>
   </channel>
