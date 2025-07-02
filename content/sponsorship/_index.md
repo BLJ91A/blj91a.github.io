@@ -1,6 +1,6 @@
 +++
 date = '2025-06-19T20:55:30+01:00'
-draft = true
+draft = false
 title = 'Sponsorship'
 +++
 

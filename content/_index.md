@@ -1,10 +1,10 @@
 +++
 date = '2025-06-19T20:07:12+01:00'
-draft = true
+draft = false
 showPageHeader = true
 title = "BLJ91A Ltd"
-description = "Some descipriton text"
-showTitle = false
+description = "Homepage for the BLJ91A Website"
+#showTitle = false
 +++
 
 

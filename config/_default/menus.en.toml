@@ -35,15 +35,15 @@
   pageRef = "sponsorship"
   weight = 40
 
-[[main]]
-  name = "Categories"
-  pageRef = "categories"
-  weight = 90
+#[[main]]
+ # name = "Categories"
+  #pageRef = "categories"
+  #weight = 90
 
-[[main]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 91
+#[[main]]
+ # name = "Tags"
+  #pageRef = "tags"
+  #weight = 91
 
 [[main]]
   identifier = "search"

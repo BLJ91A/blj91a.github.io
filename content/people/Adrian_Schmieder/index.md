@@ -1,14 +1,9 @@
 +++
 date = '2025-06-19T21:19:29+01:00'
-draft = true
+draft = false
 title = 'Adrian Schmieder'
 +++
 
-Say hi to Adrian... he's the founder and CEO of BLJ91A Ltd...
+Having graduated from the University of Southampton, with a 1st in Aeronautics and Astronautics, Adrian has enjoyed a mixed and varied engineering career thus far.  From being part of a core team building a start-up company from 6 to 60 employees, to supporting 24/7 automotive production lines to reinvigorating aerospace-certified heat treatment facilites; Adrian has continually enjoyed the challenges of learning and adapting to new environments.
 
-Here Serafino, I'm adjusting the webpage.
-
-here's a bulleted list
-- item s
-- item 4
-- iftelsdfk 
+![](adrian.jpg)
