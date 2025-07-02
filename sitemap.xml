@@ -4,22 +4,8 @@
   
     
       <url>
-            <loc>http://localhost:1313/people/adrian_schmieder/</loc>
-            <lastmod>2025-06-19T21:19:29+01:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
             <loc>http://localhost:1313/sponsorship/formulastudent/</loc>
             <lastmod>2025-06-19T21:12:23+01:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/sponsorship/freewheelersevs/</loc>
-            <lastmod>2025-06-19T21:10:10+01:00</lastmod>
           </url>
     
   
@@ -33,77 +19,7 @@
     
       <url>
             <loc>http://localhost:1313/sponsorship/pink_triangle_racing/</loc>
-            <lastmod>2025-06-19T21:09:36+01:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/projects/aerospace_structures_test/</loc>
-            <lastmod>2025-06-19T21:07:56+01:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/projects/additive_manufacturing/</loc>
-            <lastmod>2025-06-19T21:06:45+01:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/people/</loc>
-            <lastmod>2025-06-19T21:01:22+01:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/projects/</loc>
-            <lastmod>2025-06-19T20:57:11+01:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/sponsorship/</loc>
-            <lastmod>2025-06-19T20:55:30+01:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/contact/</loc>
-            <lastmod>2025-06-19T20:35:10+01:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/</loc>
-            <lastmod>2025-06-19T20:07:12+01:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/projects/marine_certification/</loc>
-            <lastmod>2025-06-19T19:58:45+01:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/projects/heat_treatment/</loc>
-            <lastmod>2025-06-19T19:52:21+01:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/about/</loc>
-            <lastmod>2025-06-19T19:43:58+01:00</lastmod>
+            <lastmod>2025-06-16T21:09:36+01:00</lastmod>
           </url>
     
   
